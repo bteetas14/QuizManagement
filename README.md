@@ -185,7 +185,8 @@ v.	The option of switching and attempting any question at any time can be added.
   
  
 7.2    Project Outcomes  
-With the help of this project, we were able to learn the following concepts:  i.  	JavaFX – It is one of the very important features with which we can enhance the Graphical User Interface (GUI) which in turn improves the user experience.  
+With the help of this project, we were able to learn the following concepts: 
+i.  	JavaFX – It is one of the very important features with which we can enhance the Graphical User Interface (GUI) which in turn improves the user experience.  
 ii. 	Classes & Constructors – it is widely used in the project  iii. 	Inheritance – Many of the code blocks need to be inherited to avoid long lines of code. It turns out to be very useful  
 iv. 	SQL – it is a very important feature, which helps us to store data and  conduct a quiz. The questions, login credentials, result etc. can be 
 accessed and verified using SQL.  
